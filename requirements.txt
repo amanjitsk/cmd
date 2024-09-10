@@ -1,0 +1,12 @@
+# basic
+numpy
+scipy
+# pandas
+# scikit-learn
+# tqdm
+matplotlib
+# matplotlib-label-lines
+# brokenaxes
+fire # cmdline flags
+# jax w/ CUDA 12
+jax
